@@ -3,6 +3,15 @@ const Main = () => {
     <div>
       Main File
       <div>asd</div>
+      <div>asd</div>
+      <div>asd</div>
+      <div>asd</div>
+      <div>asd</div>
+      <div>asd</div>
+      <div>asd</div>
+      <div>asd</div>
+      <div>asd</div>
+      <div>asd</div>
     </div>
   );
 };
